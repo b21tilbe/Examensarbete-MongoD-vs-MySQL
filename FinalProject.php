@@ -1,3 +1,6 @@
+<?php 
+    include("connection.php");
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,6 +29,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
 </style>
 <body>
+
     <header>
         <nav>
             <ul class="nav-bar">
@@ -56,23 +60,23 @@
    
     </section>
     <section id="LogInSection">
-        <div class="login-wrapper">
-            <form action="">
-                <h1>Login</h1>
-                <div class="input-container">
-                    <input type="text" placeholder="Username" required>
-                    <i class='bx bxs-user'></i>
-                </div>
-                <div class="input-container">
-                    <input type="password" placeholder="Password" required>
-                    <i class='bx bxs-lock-alt'></i>
-                </div>
-                <button type="submit" class="login-btn">Login</button>
-                <div class="register-link">
-                    <p>Don't have an account? <a href="#">Register</a></p>
-                </div>
-            </form>
-        </div>        
-    </section>
+    <div class="login-wrapper">
+        <h1>Login Form</h1>
+        <form action="login.php" name="form" method="POST">
+            <div class="input-container">
+                <label for="user">Username:</label>
+                <input type="text" id="user" name="user" required>
+            </div>
+            <div class="input-container">
+                <label for="pass">Password:</label>
+                <input type="password" id="pass" name="pass" required>
+            </div>
+            <div class="register-link">
+                <p>Don't have an account? <a href="#">Register</a></p>
+            </div>
+            <button type="submit" class="login-btn" name="submit">Login</button>
+        </form>
+    </div>
+</section>
 </body>
 </html>
