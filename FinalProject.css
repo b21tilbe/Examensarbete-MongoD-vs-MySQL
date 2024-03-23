@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    position: relative; /* Add this to position child elements relative to this container */
+    position: relative; 
 }
 
 .material-symbols-outlined {
@@ -164,15 +164,16 @@ body {
 }
 
 #LogInSection {
-    height: 100hv;
+    height: fit-content;
 }
+
 .containerLogIn a {
     color: rgb(198, 152, 236);
 }
 
 .login-wrapper {
-    margin-top: 10rem;
-    margin-bottom: 15rem;
+    margin-top: 12rem;
+    margin-bottom: 18rem;
     width: 414px;
     background: transparent;
     border-radius: 12px;
@@ -182,38 +183,33 @@ body {
 .login-wrapper h1 {
     font-size: 36px;
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .login-wrapper .input-container {
-    position: relative;
     width: 100%;
-    height: 50px;
-    margin: 30px 0;
+    margin-bottom: 20px;
+}
+
+.input-container label {
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 5px;
+    display: block;
 }
 
 .input-container input {
-    width: 100%;
-    height: 100%;
+    width: calc(100% - 10px);
     background: transparent;
-    border: none;
-    outline: none;
     border: 2px solid rgba(198, 152, 236, 0.6);
     border-radius: 10px;
     font-size: 16px;
     color: #fff;
-    padding: 20px 45px 20px 20px;
+    padding: 10px;
 }
 
 .input-container input::placeholder {
     color: #fff;
-}
-
-.input-container i {
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 20px;
 }
 
 .login-wrapper .login-btn {
@@ -229,18 +225,18 @@ body {
     font-weight: 600;
 }
 
-.login-wrapper .register-link {
-    font-size: .9rem;
-    text-align: center;
-    margin: 20px 0 15px;
-}
-
-.register-link p a {
+.login-wrapper .register-link p a {
     color: rgb(198, 152, 236);
     text-decoration: none;
     font-weight: bold;
 }
 
-.register-link p a:hover {
+.login-wrapper .register-link p a:hover {
     text-decoration: underline;
+}
+
+.login-wrapper .register-link {
+    font-size: .9rem;
+    text-align: center;
+    margin: 20px 0 15px;
 }
