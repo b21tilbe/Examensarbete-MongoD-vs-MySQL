@@ -5,6 +5,15 @@
     <title>SkillTrainy</title>
 </head>
 <body>
-    <p> You're logged in... </p>
+    <?php
+        session_start();
+        if(isset($_SESSION['username'])) {
+            $username = $_SESSION['username'];
+            echo "Welcome $username";
+        } else {
+            header("Location: FinalProject.php");
+            exit();
+        }
+    ?>
 </body>
 </html>
