@@ -23,13 +23,34 @@
                 });
             });
         });
+
+        document.addEventListener("DOMContentLoaded", function() {
+            var registerLink = document.querySelector('.register-link a');
+            var registerSection = document.getElementById("RegisterSection");
+
+            registerLink.addEventListener("click", function(event) {
+                event.preventDefault();
+                registerSection.style.display = "block";
+            });
+        });
+
+        document.addEventListener("DOMContentLoaded", function() {
+            var closeBtn = document.querySelector('.close-btn');
+            var registerSection = document.getElementById("RegisterSection");
+
+            closeBtn.addEventListener("click", function(event) {
+                event.preventDefault();
+                registerSection.style.display = "none";
+            });
+        });
+
+
     </script>
 </head>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
 </style>
 <body>
-
     <header>
         <nav>
             <ul class="nav-bar">
@@ -77,6 +98,23 @@
             <button type="submit" class="login-btn" name="submit">Login</button>
         </form>
     </div>
-</section>
+    </section>
+    <section id="RegisterSection" style="display: none;">
+        <div class="register-wrapper">
+            <h1>Registration Form</h1>
+            <form action="register.php" method="POST">
+                <div class="input-container">
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div class="input-container">
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="register-btn" name="register">Register</button>
+                <button type="button" class="close-btn" name="close">Close</button>
+            </form>
+        </div>
+    </section>
 </body>
 </html>
