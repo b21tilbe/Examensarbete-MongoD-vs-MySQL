@@ -8,9 +8,9 @@ if(isset($_POST['register'])) {
     $sql = "INSERT INTO login (username, password) VALUES ('$username', '$password')";
     
     if(mysqli_query($conn, $sql)) {
-        echo "Registration successful!";
-    } else {
-        echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+        echo '<script>alert("Registration successful!");</script>';
+        echo '<script>window.location.href = "FinalProject.php";</script>';
+        exit();
     }
 }
 
