@@ -164,31 +164,32 @@ body {
 }
 
 #LogInSection {
-    height: fit-content;
-}
-
-.containerLogIn a {
-    color: rgb(198, 152, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Du kan använda andra enheter om du vill ha en annan höjd */
 }
 
 .login-wrapper {
-    margin-top: 12rem;
-    margin-bottom: 18rem;
     width: 414px;
     background: transparent;
     border-radius: 12px;
     padding: 30px 40px;
 }
 
-.login-wrapper h1 {
-    font-size: 36px;
-    text-align: center;
-    margin-bottom: 30px;
+.containerLogIn a {
+    color: rgb(198, 152, 236);
 }
 
-.login-wrapper .input-container {
+.login-wrapper h1, .register-wrapper h1{
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px; /* Added margin bottom to match the other form */
+}
+
+.login-wrapper .input-container, .register-wrapper .input-container {
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Added margin bottom to match the other form */
 }
 
 .input-container label {
@@ -212,7 +213,7 @@ body {
     color: #fff;
 }
 
-.login-wrapper .login-btn {
+.login-wrapper .login-btn, .register-wrapper .register-btn {
     width: 100%;
     height: 45px;
     background: rgb(198, 152, 236);
@@ -223,6 +224,54 @@ body {
     font-size: 1.1rem;
     color: #000000;
     font-weight: 600;
+    box-shadow: rgba(29, 31, 32, 0.3) 0px 1px 2px 0px, rgba(29, 31, 32, 0.15) 0px 2px 6px 2px;
+}
+
+.register-wrapper .close-btn {
+    margin-top: .6rem;
+    width: 100%;
+    height: 45px;
+    background: rgb(147, 157, 170);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    color: black;
+    font-weight: 600;
+    box-shadow: rgba(29, 31, 32, 0.3) 0px 1px 2px 0px, rgba(29, 31, 32, 0.15) 0px 2px 6px 2px;
+}
+
+#RegisterSection {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-wrapper {
+    width: 400px;
+    background: white;
+    border-radius: 12px;
+    padding: 30px 40px;
+    color: black;
+    position: relative;
+    margin: auto;
+    top: 50%; 
+    transform: translateY(-50%);
+}
+
+.register-wrapper label{
+    color: black;
+}
+
+.register-wrapper input{
+    color: black;
 }
 
 .login-wrapper .register-link p a {
