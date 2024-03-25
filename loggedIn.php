@@ -29,7 +29,7 @@ if(isset($_SESSION['username'])) {
                     <li><a href="#">Program</a></li>
                     <li><a href="#">Workout</a></li>
                     <li><a href="#">Profile</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="FinalProject.php">Log out</a></li>
                     <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
                 </span>
                 <label for="check" class="open-menu"><i class="fas fa-bars"></i></label>
