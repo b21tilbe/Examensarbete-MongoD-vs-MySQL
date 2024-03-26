@@ -25,8 +25,8 @@ if(isset($_SESSION['username'])) {
                 <li class="smallLogo"><a href="#"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
                 <input type="checkbox" id="check">
                 <span class="menu">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Program</a></li>
+                    <li><a href="loggedIn.php">Home</a></li>
+                    <li><a href="program.php">Program</a></li>
                     <li><a href="#">Workout</a></li>
                     <li><a href="#">Profile</a></li>
                     <li><a href="FinalProject.php">Log out</a></li>
@@ -40,6 +40,15 @@ if(isset($_SESSION['username'])) {
         <img src="/pictures/index.jpg" alt="workout">
         <p id="indexP">PWR</p>
         <p id="indexPUnder">POWERWORKOUT</p>
+    </div>
+    <div id="indexWeeks">
+        <p>Week x4</p>
+    </div>
+    <div id="indexUndertext">
+        <p>Elevate your fitness journey with programs uniquely designed to maximize your results.</p>
+    </div>
+    <div class="Dots">
+        <p>●○○○</p>
     </div>
 </body>
 </html>
