@@ -351,3 +351,26 @@ body {
     background: linear-gradient(to bottom, transparent, black);
     z-index: 0;
 }
+
+#indexWeeks p {
+    margin-top: .7rem;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: rgb(198, 152, 236);
+}
+
+#indexUndertext p {
+    padding-top:.8rem;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: .8rem;
+    width: 370px;
+    margin: 0 auto;
+}
+
+.Dots {
+    margin-top: 6rem;
+    text-align: center;
+    font-size: 1rem;
+}
