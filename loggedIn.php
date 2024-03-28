@@ -1,11 +1,13 @@
 <?php
-session_start();
-if(isset($_SESSION['username'])) {
-    $username = $_SESSION['username'];
-} else {
-    header("Location: FinalProject.php");
-    exit();
-}
+    include("connection.php");
+
+    session_start();
+    if(isset($_SESSION['username'])) {
+        $username = $_SESSION['username'];
+    } else {
+        header("Location: FinalProject.php");
+        exit();
+    }
 ?>
 <!DOCTYPE html>
 <html>
@@ -22,7 +24,7 @@ if(isset($_SESSION['username'])) {
     <header>
         <nav>
             <ul class="nav-bar">
-                <li class="smallLogo"><a href="#"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
+                <li class="smallLogo"><a href="loggedIn.php"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
                 <input type="checkbox" id="check">
                 <span class="menu">
                     <li><a href="loggedIn.php">Home</a></li>
@@ -46,6 +48,9 @@ if(isset($_SESSION['username'])) {
     </div>
     <div id="indexUndertext">
         <p>Elevate your fitness journey with programs uniquely designed to maximize your results.</p>
+    </div>
+    <div class="button-container">
+        <button id="buttonGet"><a href="program.php">Get started</a><span></span></button>
     </div>
     <div class="Dots">
         <p>●○○○</p>
