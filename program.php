@@ -1,3 +1,14 @@
+<?php
+    include("connection.php");
+
+    session_start();
+    if(isset($_SESSION['username'])) {
+        $username = $_SESSION['username'];
+    } else {
+        header("Location: FinalProject.php");
+        exit();
+    }
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,11 +20,11 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 </head>
 <body>
-    <div class="username">Programs</div>
+    <div class="username">Welcome <?php echo $username; ?></div>
     <header>
         <nav>
             <ul class="nav-bar">
-                <li class="smallLogo"><a href="#"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
+                <li class="smallLogo"><a href="loggedIn.php"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
                 <input type="checkbox" id="check">
                 <span class="menu">
                     <li><a href="loggedIn.php">Home</a></li>
@@ -31,6 +42,12 @@
         <img src="/pictures/index.jpg" alt="workout">
         <p id="indexP">PWR</p>
         <p id="indexPUnder">POWERWORKOUT</p>
+    </div>
+    <div id="indexWeeks">
+        <p>Week x4</p>
+    </div>
+    <div id="indexUndertext">
+        <p>Elevate your fitness journey with programs uniquely designed to maximize your results.</p>
     </div>
     <div class="Dots">
         <p>○●○○</p>
