@@ -3,8 +3,6 @@
     session_start();
     if (isset($_SESSION['username'])) {
 
-    include("connection.php");
-
     if (isset($_POST['selected_value'])) {
         $selectedValue = $_POST['selected_value'];
         
