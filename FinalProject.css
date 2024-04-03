@@ -353,7 +353,7 @@ body {
 }
 
 #indexWeeks p {
-    margin-top: .7rem;
+    margin-top: .4rem;
     text-align: center;
     font-weight: 600;
     letter-spacing: 2px;
@@ -370,7 +370,7 @@ body {
 }
 
 .Dots {
-    margin-top: 2rem;
+    margin-top: .5rem;
     text-align: center;
     font-size: 1rem;
 }
@@ -378,7 +378,7 @@ body {
 .button-container {
     display: flex;
     justify-content: center;
-    margin-top: 20px; /* Justera om du vill ha mer utrymme mellan knappen och andra element */
+    margin-top: 20px;
 }
 
 #buttonGet {
@@ -411,4 +411,48 @@ body {
     background: transparent;
     z-index: -1;
     border: 4px solid rgb(198, 152, 236);
+}
+
+#ProgramH1 {
+    margin-top: 4rem;
+    text-align: center;
+    font-family: "Bebas Neue";
+    letter-spacing: 5px;
+    font-size: 3rem;
+}
+
+#programBody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.cardContainer {
+    width: 100%;
+    height: 200px;
+    overflow: hidden; 
+}
+
+.cardContainer img {
+    width: auto;
+    height: 15rem;
+    object-fit: cover;
+}
+
+.details {
+    padding: 10px;
+    text-align: center;
 }
