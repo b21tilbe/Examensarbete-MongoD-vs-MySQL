@@ -19,34 +19,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
 </head>
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-
-        var cards = document.querySelectorAll(".card");
-
-        cards.forEach(function(card) {
-            card.addEventListener("click", function(event) {
-                var selectedValue = event.currentTarget.dataset.cardNumber;
-
-                var xhr = new XMLHttpRequest();
-                xhr.open("POST", "save_choice.php", true);
-                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-                xhr.onreadystatechange = function() {
-                    if (xhr.readyState === XMLHttpRequest.DONE) {
-                        if (xhr.status === 200) {
-                            console.log("Användarens val har sparats på servern.");
-                            alert("Du valde kort " + selectedValue);
-                        } else {
-                            console.error("Ett fel uppstod när användarens val skulle sparas på servern.");
-                        }
-                    }
-                };
-                xhr.send("selected_value=" + selectedValue);
-            });
-        });
-    });
-</script>
-
 <body>
     <h1 id="ProgramH1">Type of workout</h1>
     <header>
@@ -57,7 +29,7 @@
                 <span class="menu">
                     <li><a href="loggedIn.php">Home</a></li>
                     <li><a href="program.php">Program</a></li>
-                    <li><a href="#">Workout</a></li>
+                    <li><a href="workout.php">Workout</a></li>
                     <li><a href="#">Profile</a></li>
                     <li><a href="FinalProject.php">Log out</a></li>
                     <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
@@ -66,9 +38,15 @@
             </ul>
         </nav>
     </header>
+    <script>
+        function saveSelection(selection) {
+            localStorage.setItem('selectedCard', selection);
+            window.location.href = 'workout.php';
+        }
+    </script>
     <div id="programBody">
         <div class="cards">
-            <div class="card card1" data-card-number="1">
+            <div class="card card1" onclick="saveSelection('Strength')">
                 <div class="cardContainer">
                     <img src="/pictures/strength.jpg" alt="strength">
                 </div>
@@ -77,7 +55,7 @@
                     <p>Lorem Ipsum</p>
                 </div>
             </div>
-            <div class="card card2" data-card-number="2">
+            <div class="card card2" onclick="saveSelection('Kondition')">
                 <div class="cardContainer">
                     <img src="/pictures/strength.jpg" alt="strength">
                 </div>
@@ -86,7 +64,7 @@
                     <p>Lorem Ipsum</p>
                 </div>
             </div>
-            <div class="card card3" data-card-number="3">
+            <div class="card card3" onclick="saveSelection('Uthållighet')">
                 <div class="cardContainer">
                     <img src="/pictures/strength.jpg" alt="strength">
                 </div>
