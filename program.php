@@ -46,34 +46,37 @@
     </script>
     <div id="programBody">
         <div class="cards">
-            <div class="card card1" onclick="saveSelection('Strength')">
+            <div class="card card1" onclick="saveSelection('Powerlifting')">
                 <div class="cardContainer">
-                    <img src="/pictures/strength.jpg" alt="strength">
+                    <img src="/pictures/strength.jpg" alt="Powerlifting">
+                </div>
+                <div class="details">
+                    <h3>Powerlifting</h3>
+                    <p>Build strength</p>
+                </div>
+            </div>
+            <div class="card card2" onclick="saveSelection('Strength')">
+                <div class="cardContainer">
+                    <img src="/pictures/planB.jpg" alt="Strength">
                 </div>
                 <div class="details">
                     <h3>Strength</h3>
-                    <p>Lorem Ipsum</p>
+                    <p>Build muscles</p>
                 </div>
             </div>
-            <div class="card card2" onclick="saveSelection('Kondition')">
+            <div class="card card3" onclick="saveSelection('Endurance')">
                 <div class="cardContainer">
-                    <img src="/pictures/strength.jpg" alt="strength">
+                    <img src="/pictures/Endurance.jpg" alt="Endurance">
                 </div>
                 <div class="details">
-                    <h3>Kondition</h3>
-                    <p>Lorem Ipsum</p>
-                </div>
-            </div>
-            <div class="card card3" onclick="saveSelection('Uthållighet')">
-                <div class="cardContainer">
-                    <img src="/pictures/strength.jpg" alt="strength">
-                </div>
-                <div class="details">
-                    <h3>Uthållighet</h3>
-                    <p>Lorem Ipsum</p>
+                    <h3>Endurance</h3>
+                    <p>Build stamina</p>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="Dots">
+        <p>○●○○</p>
     </div>
 </body>
 </html>
