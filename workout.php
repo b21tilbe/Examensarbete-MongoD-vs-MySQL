@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="FinalProject.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <style>
-
       body {
             font-family: sans-serif;
             background-color: black;
@@ -67,6 +66,14 @@
             font-family: "Bebas Neue";
             letter-spacing: 5px;
             font-size: 3rem;
+        }
+
+        h3 {
+            margin-top: .4rem;
+            text-align: center;
+            font-family: "Bebas Neue";
+            letter-spacing: 2px;
+            font-size: 1.4rem;
         }
 
     </style>
