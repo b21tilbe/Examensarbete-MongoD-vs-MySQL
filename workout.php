@@ -10,9 +10,12 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   </head>
   <style>
+
+
     body {
       font-family: sans-serif;
       background-color: black;
+      letter-spacing: 2px;
       color: white;
       margin: 0;
       padding: 0;
@@ -26,23 +29,27 @@
       border-collapse: collapse;
       background: #fff;
       border-radius: 5px;
+      letter-spacing: 1px;
+      font-weight: 600;
       overflow: hidden;
       color: black;
       margin: 0 auto;
       border: none;
       width: 90%;
+      color: #363636;
       margin-top: 20px;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     }
 
     th,
     td {
       padding: 8px;
       text-align: left;
-      border: none;
+      border: 1px solid #363636;
     }
 
     th {
-      font-weight: 600;
+      color: black;
       background: rgb(198, 152, 236);
     }
 
