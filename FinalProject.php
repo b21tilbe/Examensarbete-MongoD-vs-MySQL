@@ -44,22 +44,18 @@
             });
         });
 
-
     </script>
 </head>
 <body>
     <header>
         <nav>
             <ul class="nav-bar">
-                <li class="smallLogo"><a href="#"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
+                <li class="smallLogo"><a href="FinalProject.php"><span id="miniLogo" class="material-symbols-outlined">exercise</span></a></li>
                 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
                 <input type="checkbox" id="check">
                 <span class="menu">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">Program</a></li>
-                    <li><a href="#">Workout</a></li>
-                    <li><a href="#">Profile</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Help</a></li>
+                    <li><a href="#">About us</a></li>
                     <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
                 </span>
                 <label for="check" class="open-menu"><i class="fas fa-bars"></i></label>
