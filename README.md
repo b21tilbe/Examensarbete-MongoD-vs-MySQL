@@ -15,7 +15,7 @@ Users are presented with a login form where they can enter their credentials to 
   
 ![IndexPage](pictures/IndexSida.JPG)
 
-### Navigation
+### Program selection
 
 * Users are presented with a variety of workout programs, each represented by a distinct card showcasing specific types of workouts such as Powerlifting, Strength, and Endurance. Clicking on a card dynamically adjusts the repetition randomization range to align with the user's preferences for the upcoming training session.
 
