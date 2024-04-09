@@ -29,8 +29,7 @@
                 <span class="menu">
                     <li><a href="loggedIn.php">Home</a></li>
                     <li><a href="program.php">Program</a></li>
-                    <li><a href="#">Workout</a></li>
-                    <li><a href="#">Profile</a></li>
+                    <li><a href="profile.php">Profile</a></li>
                     <li><a href="FinalProject.php">Log out</a></li>
                     <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
                 </span>
