@@ -98,13 +98,13 @@ function displayExerciseRow($row, $selectedCard)
 
     switch ($selectedCard) {
         case "Powerlifting":
-            $reps = rand(4, 6);
+            $reps = rand(2, 3) * 2;
             break;
         case "Strength":
-            $reps = rand(8, 12);
+            $reps = rand(4, 6) * 2;
             break;
         case "Endurance":
-            $reps = rand(15, 25);
+            $reps = rand(8, 12) * 2;
             break;
         default:
             $reps = "N/A";
