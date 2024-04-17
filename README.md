@@ -7,7 +7,7 @@ SkillTrainy is a comprehensive fitness app dedicated to helping individuals achi
 
 Users are presented with a login form where they can enter their credentials to access their accounts. For new users, there is a registration form to sign up for SkillTrainy.
 
-![LogInPage](pictures/LogInPage.JPG)
+![LogInPage](Pictures/LogInPage.JPG)
 
 ### Index page
 
