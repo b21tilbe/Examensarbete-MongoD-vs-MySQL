@@ -25,5 +25,5 @@ Users are presented with a login form where they can enter their credentials to 
 
 * Upon selecting their preferred workout program, SkillTrainy dynamically generates five distinct workouts, each meticulously crafted to target specific muscle groups and align with individual fitness objectives. Two compound movements and 4 isolated exercises.
 
-![Workout for 1 week](pictures/WorkoutPage.JPG)
+![Workout for 1 week](Pictures/WorkoutProgram.JPG)
 
