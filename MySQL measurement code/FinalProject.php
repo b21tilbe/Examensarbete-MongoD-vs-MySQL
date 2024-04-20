@@ -109,6 +109,7 @@
             </form>
         </div>
     </section>
-    <input type="button" value="Download Data" onclick="getData()">
+    <button onclick="autofillForm()">mät</button>
+    <button onclick="getData()">Ladda ner CSV</button>
 </body>
 </html>
