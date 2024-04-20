@@ -1,17 +1,14 @@
 <?php
-include("connection.php");
-include("performance.php");
+    include("connection.php");
+    include("performance.php");
 
-session_start();
-if(isset($_SESSION['username'])) {
-    $username = $_SESSION['username'];
-} else {
-    header("Location: FinalProject.php");
-    exit();
-}
-
-echo '<script>savetime();</script>';
-
+    session_start();
+    if(isset($_SESSION['username'])) {
+        $username = $_SESSION['username'];
+    } else {
+        header("Location: FinalProject.php");
+        exit();
+    }
 ?>
 <!DOCTYPE html>
 <html>
