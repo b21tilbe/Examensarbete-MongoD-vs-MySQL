@@ -10,7 +10,6 @@
         exit();
     }
 
-    echo '<script>savetime();</script>';
 ?>
 <!DOCTYPE html>
 <html>
