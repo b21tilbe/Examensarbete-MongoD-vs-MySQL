@@ -42,14 +42,16 @@
         function saveSelection(selection) {
             var username = "<?php echo $username; ?>";
             localStorage.setItem('selectedCard', selection);
-            
+
+            console.log("User selected program: " + selection);
+
             $.ajax({
                 url: 'save_program_selection.php',
                 method: 'POST',
                 data: { programName: selection, username: username },
                 success: function(response) {
                     console.log(response);
-                    // window.location.href = 'workout.php';
+                    window.location.href = 'workout.php';
                 },
                 error: function(xhr, status, error) {
                     console.error(error);
