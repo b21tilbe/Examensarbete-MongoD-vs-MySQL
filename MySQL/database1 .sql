@@ -1,40 +1,11 @@
--- phpMyAdmin SQL Dump
--- version 5.2.1
--- https://www.phpmyadmin.net/
---
--- Värd: 127.0.0.1
--- Tid vid skapande: 14 apr 2024 kl 20:10
--- Serverversion: 10.4.32-MariaDB
--- PHP-version: 8.2.12
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
---
--- Databas: `database1`
---
-
--- --------------------------------------------------------
-
---
--- Tabellstruktur `historik`
---
 
 CREATE TABLE `historik` (
   `username` varchar(30) NOT NULL,
   `programName` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumpning av Data i tabell `historik`
---
 
 INSERT INTO `historik` (`username`, `programName`) VALUES
 ('Oliwer', 'Strength'),
@@ -56,7 +27,6 @@ INSERT INTO `historik` (`username`, `programName`) VALUES
 ('Oliwer', 'Endurance'),
 ('Oliwer', 'Powerlifting'),
 ('Oliwer', 'Endurance'),
-(' < ? php echo $username; ? > ', 'Endurance'),
 ('Oliwer', 'Strength'),
 ('Oliwer', 'Strength'),
 ('Angelina', 'Powerlifting'),
@@ -72,20 +42,11 @@ INSERT INTO `historik` (`username`, `programName`) VALUES
 ('Greger', 'Endurance'),
 ('Greger', 'Strength');
 
--- --------------------------------------------------------
-
---
--- Tabellstruktur `login`
---
 
 CREATE TABLE `login` (
   `username` varchar(30) NOT NULL,
   `password` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumpning av Data i tabell `login`
---
 
 INSERT INTO `login` (`username`, `password`) VALUES
 ('Angelina', 'Blomma123'),
@@ -95,23 +56,11 @@ INSERT INTO `login` (`username`, `password`) VALUES
 ('Oliwer', 'Oliwer'),
 ('tilda', 'admin');
 
--- --------------------------------------------------------
-
---
--- Tabellstruktur `träningskategori`
---
-
 CREATE TABLE `träningskategori` (
   `KategoriNamn` varchar(30) NOT NULL,
   `minRep` int(11) NOT NULL,
   `maxRep` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
--- --------------------------------------------------------
-
---
--- Tabellstruktur `träningsprogram`
---
 
 CREATE TABLE `träningsprogram` (
   `Program-ID` int(11) NOT NULL,
@@ -119,21 +68,11 @@ CREATE TABLE `träningsprogram` (
   `KategoriNamn` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
--- --------------------------------------------------------
-
---
--- Tabellstruktur `träningsövning`
---
-
 CREATE TABLE `träningsövning` (
   `ÖvningsNamn` varchar(30) NOT NULL,
   `Typ` varchar(30) NOT NULL,
   `Muskelgrupp` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumpning av Data i tabell `träningsövning`
---
 
 INSERT INTO `träningsövning` (`ÖvningsNamn`, `Typ`, `Muskelgrupp`) VALUES
 ('21:an', 'isolated', 'Arms'),
@@ -209,81 +148,40 @@ INSERT INTO `träningsövning` (`ÖvningsNamn`, `Typ`, `Muskelgrupp`) VALUES
 ('Walking lunges', 'compound', 'Legs'),
 ('Wide lat pulldown', 'compound', 'Back');
 
--- --------------------------------------------------------
-
---
--- Tabellstruktur `övningsrelation`
---
-
 CREATE TABLE `övningsrelation` (
   `ÖvningsRelations-ID` int(11) NOT NULL,
   `Program-ID` int(11) NOT NULL,
   `ÖvningsNamn` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Index för dumpade tabeller
---
-
---
--- Index för tabell `login`
---
 ALTER TABLE `login`
   ADD PRIMARY KEY (`username`);
 
---
--- Index för tabell `träningskategori`
---
 ALTER TABLE `träningskategori`
   ADD PRIMARY KEY (`KategoriNamn`);
 
---
--- Index för tabell `träningsprogram`
---
 ALTER TABLE `träningsprogram`
   ADD PRIMARY KEY (`Program-ID`),
   ADD KEY `KategoriNam` (`KategoriNamn`),
   ADD KEY `username` (`username`);
 
---
--- Index för tabell `träningsövning`
---
 ALTER TABLE `träningsövning`
   ADD PRIMARY KEY (`ÖvningsNamn`);
 
---
--- Index för tabell `övningsrelation`
---
 ALTER TABLE `övningsrelation`
   ADD PRIMARY KEY (`ÖvningsRelations-ID`),
   ADD KEY `Program-ID` (`Program-ID`),
   ADD KEY `ÖvningsNamn` (`ÖvningsNamn`);
 
---
--- Restriktioner för dumpade tabeller
---
-
---
--- Restriktioner för tabell `historik`
---
 ALTER TABLE `historik`
   ADD CONSTRAINT `historik_ibfk_1` FOREIGN KEY (`username`) REFERENCES `login` (`username`);
 
---
--- Restriktioner för tabell `träningsprogram`
---
 ALTER TABLE `träningsprogram`
   ADD CONSTRAINT `träningsprogram_ibfk_1` FOREIGN KEY (`KategoriNamn`) REFERENCES `träningskategori` (`KategoriNamn`),
   ADD CONSTRAINT `träningsprogram_ibfk_2` FOREIGN KEY (`username`) REFERENCES `login` (`username`);
 
---
--- Restriktioner för tabell `övningsrelation`
---
+
 ALTER TABLE `övningsrelation`
   ADD CONSTRAINT `övningsrelation_ibfk_1` FOREIGN KEY (`Program-ID`) REFERENCES `träningsprogram` (`Program-ID`),
   ADD CONSTRAINT `övningsrelation_ibfk_2` FOREIGN KEY (`ÖvningsNamn`) REFERENCES `träningsövning` (`ÖvningsNamn`);
 COMMIT;
-
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
