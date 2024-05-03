@@ -1,0 +1,552 @@
+[{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe74c"
+  },
+  "name": "21:an",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe74d"
+  },
+  "name": "abduction",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe74e"
+  },
+  "name": "addiction",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe74f"
+  },
+  "name": "Arnold press",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe750"
+  },
+  "name": "Around the world",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe751"
+  },
+  "name": "Back extension",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe752"
+  },
+  "name": "Barbell shoulder press",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe753"
+  },
+  "name": "BB rows",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe754"
+  },
+  "name": "BB upright rows",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe755"
+  },
+  "name": "Bench press",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe756"
+  },
+  "name": "Bicep curls",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe757"
+  },
+  "name": "Bulgarian split-squats",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe758"
+  },
+  "name": "Cable flyes",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe759"
+  },
+  "name": "Cable rows",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75a"
+  },
+  "name": "Cable upright row",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75b"
+  },
+  "name": "Calf raise",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75c"
+  },
+  "name": "Crossrack cable pull",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75d"
+  },
+  "name": "DB butterflies",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75e"
+  },
+  "name": "DB chestpress",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe75f"
+  },
+  "name": "DB curls",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe760"
+  },
+  "name": "DB flyes",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe761"
+  },
+  "name": "DB pull over",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe762"
+  },
+  "name": "DB rows",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6635026d456188bd0a0fe763"
+  },
+  "name": "DB shoulder press",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe765"
+  },
+  "name": "Deadlifts",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe766"
+  },
+  "name": "Dips",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe767"
+  },
+  "name": "Eccentric leg-curls",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe768"
+  },
+  "name": "EZ-bar curls",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe769"
+  },
+  "name": "EZ-bar front raise",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76a"
+  },
+  "name": "goblet squats",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76b"
+  },
+  "name": "Hammercurls",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76c"
+  },
+  "name": "Hip thrusts",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76d"
+  },
+  "name": "Incline DB bench curls",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76e"
+  },
+  "name": "Incline front raise",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe76f"
+  },
+  "name": "Jump squats",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe770"
+  },
+  "name": "Kickbacks",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe771"
+  },
+  "name": "Landmine press",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe772"
+  },
+  "name": "Leg extention",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe773"
+  },
+  "name": "Leg raises",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe774"
+  },
+  "name": "Legpress",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe775"
+  },
+  "name": "Lunges",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe776"
+  },
+  "name": "Lying leg-curls",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe777"
+  },
+  "name": "Military press",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe778"
+  },
+  "name": "Mountain climbers",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe779"
+  },
+  "name": "Overhead extension",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe77a"
+  },
+  "name": "Parallel front raise",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe77b"
+  },
+  "name": "Plate press up",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6635048f456188bd0a0fe77c"
+  },
+  "name": "Pull-ups",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe77d"
+  },
+  "name": "Push-ups",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe77e"
+  },
+  "name": "Reversed cable flyes",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe77f"
+  },
+  "name": "Rope curls",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe780"
+  },
+  "name": "Rope face-pull",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe781"
+  },
+  "name": "Seated calf raise",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe782"
+  },
+  "name": "Shoulder press",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe783"
+  },
+  "name": "Side lateral raise",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe784"
+  },
+  "name": "Skull crushers",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe785"
+  },
+  "name": "sd",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe786"
+  },
+  "name": "Spidercurls",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe787"
+  },
+  "name": "Spinning wheel",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe788"
+  },
+  "name": "Squats",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe789"
+  },
+  "name": "Step-ups",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78a"
+  },
+  "name": "Stiffed leg deadlifts",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78b"
+  },
+  "name": "Sumo deadlift",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78c"
+  },
+  "name": "T-bar row",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78d"
+  },
+  "name": "Tricep extension",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78e"
+  },
+  "name": "Underarm cable rows",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe78f"
+  },
+  "name": "V-pulldown",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe790"
+  },
+  "name": "Walking lunges",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "663505f3456188bd0a0fe791"
+  },
+  "name": "Wide lat pulldown",
+  "type": "compound",
+  "musclegroup": "Back"
+}]

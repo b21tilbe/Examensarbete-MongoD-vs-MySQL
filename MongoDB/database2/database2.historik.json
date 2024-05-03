@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6634fc8d456188bd0a0fe743"
+  },
+  "username": "Tilda",
+  "programName": "Strength"
+},
+{
+  "_id": {
+    "$oid": "6634fc97456188bd0a0fe744"
+  },
+  "username": "Tilda",
+  "programName": "Endurance"
+},
+{
+  "_id": {
+    "$oid": "66350624456188bd0a0fe792"
+  },
+  "username": "Tilda",
+  "programName": "Strength"
+},
+{
+  "_id": {
+    "$oid": "66350885456188bd0a0fe793"
+  },
+  "username": "Tilda",
+  "programName": "Powerlifting"
+}]
