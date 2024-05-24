@@ -1,6 +1,6 @@
 <?php
     echo '<script>
-        let iterations = 10;
+        let iterations = 700;
 
         function test() {
             const strengthCard = document.querySelector(".card2");
@@ -8,22 +8,16 @@
             if (strengthCard) {
                 strengthCard.click();
 
-                setTimeout(() => {
-                    const backButton = document.querySelector("#Back a");
-                    if (backButton) {
-                        backButton.click();
-                    } else {
-                        console.error("Back button not found");
-                        setTimeout(() => {
-                            window.location.href = "program.php";
-                        }, 500);
-                    }
-                }, 500);
+                const backButton = document.querySelector("#Back a");
+                if (backButton) {
+                    backButton.click();
+                } else {
+                    console.error("Back button not found");
+                    window.location.href = "program.php";
+                }
             } else {
                 console.error("Strength card not found");
-                setTimeout(() => {
-                    window.location.href = "program.php";
-                }, 500);
+                window.location.href = "program.php";
             }
         }
 
@@ -38,7 +32,6 @@
             let str = localStorage.getItem("theData");
 
             if (!str || cnt === 0) {
-                // Om det inte finns någon data eller om det är den första mätningen, skapa en ny CSV-sträng
                 str = "data:text/csv;charset=utf-8,";
             }
 
@@ -48,19 +41,13 @@
             localStorage.setItem("LastMeasurement", measurement);
             localStorage.setItem("theData", str);
 
-            setTimeout(() => {
-                setTimeout(() => {
-                    const getRandomExercisesButton = document.getElementById("getRandomExercises");
-                    if (getRandomExercisesButton) {
-                        getRandomExercisesButton.click();
-                    } else {
-                        console.error("getRandomExercises button not found");
-                    }
-                }, 500);
-                setTimeout(() => {
-                    test();
-                }, 500);
-            }, 500);
+            const getRandomExercisesButton = document.getElementById("getRandomExercises");
+            if (getRandomExercisesButton) {
+                getRandomExercisesButton.click();
+            } else {
+                console.error("getRandomExercises button not found");
+            }
+            test();
         }
 
         function getData() {
