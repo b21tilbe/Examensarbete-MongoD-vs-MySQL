@@ -35,7 +35,12 @@
             const measurement = performance.now();
             const old = parseFloat(localStorage.getItem("LastMeasurement")) || measurement;
             const delta = measurement - old;
-            let str = localStorage.getItem("theData") || "data:text/csv;charset=utf-8,";
+            let str = localStorage.getItem("theData");
+
+            if (!str || cnt === 0) {
+                // Om det inte finns någon data eller om det är den första mätningen, skapa en ny CSV-sträng
+                str = "data:text/csv;charset=utf-8,";
+            }
 
             str += old + "," + measurement + "," + delta + "\\n";
             cnt++;
@@ -69,5 +74,3 @@
         }
     </script>';
 ?>
-
-
