@@ -1,6 +1,6 @@
 <?php
     echo '<script>
-        let iterations = 700;
+        let iterations = 10;
 
         function test() {
             const strengthCard = document.querySelector(".card2");
@@ -26,7 +26,7 @@
         if (cnt >= iterations) {
             alert("Finished! " + cnt);
         } else {
-            const measurement = performance.now();
+            const measurement = Math.round(performance.now());
             const old = parseFloat(localStorage.getItem("LastMeasurement")) || measurement;
             const delta = measurement - old;
             let str = localStorage.getItem("theData");
@@ -35,7 +35,7 @@
                 str = "data:text/csv;charset=utf-8,";
             }
 
-            str += old + "," + measurement + "," + delta + "\\n";
+            str += Math.round(old) + "," + Math.round(measurement) + "," + Math.round(delta) + "\\n";
             cnt++;
             localStorage.setItem("Counter", cnt);
             localStorage.setItem("LastMeasurement", measurement);
