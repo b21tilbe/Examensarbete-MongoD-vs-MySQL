@@ -448,14 +448,6 @@
 },
 {
   "_id": {
-    "$oid": "663505f3456188bd0a0fe785"
-  },
-  "name": "sd",
-  "type": "compound",
-  "musclegroup": "Arms"
-},
-{
-  "_id": {
     "$oid": "663505f3456188bd0a0fe786"
   },
   "name": "Spidercurls",
@@ -549,4 +541,4004 @@
   "name": "Wide lat pulldown",
   "type": "compound",
   "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23f6"
+  },
+  "name": "Arms Exercise 1",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23f7"
+  },
+  "name": "Arms Exercise 2",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23f8"
+  },
+  "name": "Arms Exercise 3",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23f9"
+  },
+  "name": "Arms Exercise 4",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23fa"
+  },
+  "name": "Arms Exercise 5",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23fb"
+  },
+  "name": "Arms Exercise 6",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23fc"
+  },
+  "name": "Arms Exercise 7",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23fd"
+  },
+  "name": "Arms Exercise 8",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23fe"
+  },
+  "name": "Arms Exercise 9",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a23ff"
+  },
+  "name": "Arms Exercise 10",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2400"
+  },
+  "name": "Arms Exercise 11",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2401"
+  },
+  "name": "Arms Exercise 12",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2402"
+  },
+  "name": "Arms Exercise 13",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2403"
+  },
+  "name": "Arms Exercise 14",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2404"
+  },
+  "name": "Arms Exercise 15",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2405"
+  },
+  "name": "Arms Exercise 16",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2406"
+  },
+  "name": "Arms Exercise 17",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2407"
+  },
+  "name": "Arms Exercise 18",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2408"
+  },
+  "name": "Arms Exercise 19",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2409"
+  },
+  "name": "Arms Exercise 20",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240a"
+  },
+  "name": "Arms Exercise 21",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240b"
+  },
+  "name": "Arms Exercise 22",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240c"
+  },
+  "name": "Arms Exercise 23",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240d"
+  },
+  "name": "Arms Exercise 24",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240e"
+  },
+  "name": "Arms Exercise 25",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a240f"
+  },
+  "name": "Arms Exercise 26",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2410"
+  },
+  "name": "Arms Exercise 27",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2411"
+  },
+  "name": "Arms Exercise 28",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2412"
+  },
+  "name": "Arms Exercise 29",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2413"
+  },
+  "name": "Arms Exercise 30",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2414"
+  },
+  "name": "Arms Exercise 31",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2415"
+  },
+  "name": "Arms Exercise 32",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2416"
+  },
+  "name": "Arms Exercise 33",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2417"
+  },
+  "name": "Arms Exercise 34",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2418"
+  },
+  "name": "Arms Exercise 35",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2419"
+  },
+  "name": "Arms Exercise 36",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241a"
+  },
+  "name": "Arms Exercise 37",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241b"
+  },
+  "name": "Arms Exercise 38",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241c"
+  },
+  "name": "Arms Exercise 39",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241d"
+  },
+  "name": "Arms Exercise 40",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241e"
+  },
+  "name": "Arms Exercise 41",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a241f"
+  },
+  "name": "Arms Exercise 42",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2420"
+  },
+  "name": "Arms Exercise 43",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2421"
+  },
+  "name": "Arms Exercise 44",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2422"
+  },
+  "name": "Arms Exercise 45",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2423"
+  },
+  "name": "Arms Exercise 46",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2424"
+  },
+  "name": "Arms Exercise 47",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2425"
+  },
+  "name": "Arms Exercise 48",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2426"
+  },
+  "name": "Arms Exercise 49",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2427"
+  },
+  "name": "Arms Exercise 50",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2428"
+  },
+  "name": "Arms Exercise 51",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2429"
+  },
+  "name": "Arms Exercise 52",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242a"
+  },
+  "name": "Arms Exercise 53",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242b"
+  },
+  "name": "Arms Exercise 54",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242c"
+  },
+  "name": "Arms Exercise 55",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242d"
+  },
+  "name": "Arms Exercise 56",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242e"
+  },
+  "name": "Arms Exercise 57",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a242f"
+  },
+  "name": "Arms Exercise 58",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2430"
+  },
+  "name": "Arms Exercise 59",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2431"
+  },
+  "name": "Arms Exercise 60",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2432"
+  },
+  "name": "Arms Exercise 61",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2433"
+  },
+  "name": "Arms Exercise 62",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2434"
+  },
+  "name": "Arms Exercise 63",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2435"
+  },
+  "name": "Arms Exercise 64",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2436"
+  },
+  "name": "Arms Exercise 65",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2437"
+  },
+  "name": "Arms Exercise 66",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2438"
+  },
+  "name": "Arms Exercise 67",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2439"
+  },
+  "name": "Arms Exercise 68",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243a"
+  },
+  "name": "Arms Exercise 69",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243b"
+  },
+  "name": "Arms Exercise 70",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243c"
+  },
+  "name": "Arms Exercise 71",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243d"
+  },
+  "name": "Arms Exercise 72",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243e"
+  },
+  "name": "Arms Exercise 73",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a243f"
+  },
+  "name": "Arms Exercise 74",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2440"
+  },
+  "name": "Arms Exercise 75",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2441"
+  },
+  "name": "Arms Exercise 76",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2442"
+  },
+  "name": "Arms Exercise 77",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2443"
+  },
+  "name": "Arms Exercise 78",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2444"
+  },
+  "name": "Arms Exercise 79",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2445"
+  },
+  "name": "Arms Exercise 80",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2446"
+  },
+  "name": "Arms Exercise 81",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2447"
+  },
+  "name": "Arms Exercise 82",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2448"
+  },
+  "name": "Arms Exercise 83",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2449"
+  },
+  "name": "Arms Exercise 84",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244a"
+  },
+  "name": "Arms Exercise 85",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244b"
+  },
+  "name": "Arms Exercise 86",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244c"
+  },
+  "name": "Arms Exercise 87",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244d"
+  },
+  "name": "Arms Exercise 88",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244e"
+  },
+  "name": "Arms Exercise 89",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a244f"
+  },
+  "name": "Arms Exercise 90",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2450"
+  },
+  "name": "Arms Exercise 91",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2451"
+  },
+  "name": "Arms Exercise 92",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2452"
+  },
+  "name": "Arms Exercise 93",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2453"
+  },
+  "name": "Arms Exercise 94",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2454"
+  },
+  "name": "Arms Exercise 95",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2455"
+  },
+  "name": "Arms Exercise 96",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2456"
+  },
+  "name": "Arms Exercise 97",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2457"
+  },
+  "name": "Arms Exercise 98",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2458"
+  },
+  "name": "Arms Exercise 99",
+  "type": "compound",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e6db03ff5faf675a2459"
+  },
+  "name": "Arms Exercise 100",
+  "type": "isolated",
+  "musclegroup": "Arms"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245a"
+  },
+  "name": "Legs Exercise 1",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245b"
+  },
+  "name": "Legs Exercise 2",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245c"
+  },
+  "name": "Legs Exercise 3",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245d"
+  },
+  "name": "Legs Exercise 4",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245e"
+  },
+  "name": "Legs Exercise 5",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a245f"
+  },
+  "name": "Legs Exercise 6",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2460"
+  },
+  "name": "Legs Exercise 7",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2461"
+  },
+  "name": "Legs Exercise 8",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2462"
+  },
+  "name": "Legs Exercise 9",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2463"
+  },
+  "name": "Legs Exercise 10",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2464"
+  },
+  "name": "Legs Exercise 11",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2465"
+  },
+  "name": "Legs Exercise 12",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2466"
+  },
+  "name": "Legs Exercise 13",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2467"
+  },
+  "name": "Legs Exercise 14",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2468"
+  },
+  "name": "Legs Exercise 15",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2469"
+  },
+  "name": "Legs Exercise 16",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246a"
+  },
+  "name": "Legs Exercise 17",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246b"
+  },
+  "name": "Legs Exercise 18",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246c"
+  },
+  "name": "Legs Exercise 19",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246d"
+  },
+  "name": "Legs Exercise 20",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246e"
+  },
+  "name": "Legs Exercise 21",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a246f"
+  },
+  "name": "Legs Exercise 22",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2470"
+  },
+  "name": "Legs Exercise 23",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2471"
+  },
+  "name": "Legs Exercise 24",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2472"
+  },
+  "name": "Legs Exercise 25",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2473"
+  },
+  "name": "Legs Exercise 26",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2474"
+  },
+  "name": "Legs Exercise 27",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2475"
+  },
+  "name": "Legs Exercise 28",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2476"
+  },
+  "name": "Legs Exercise 29",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2477"
+  },
+  "name": "Legs Exercise 30",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2478"
+  },
+  "name": "Legs Exercise 31",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2479"
+  },
+  "name": "Legs Exercise 32",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247a"
+  },
+  "name": "Legs Exercise 33",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247b"
+  },
+  "name": "Legs Exercise 34",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247c"
+  },
+  "name": "Legs Exercise 35",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247d"
+  },
+  "name": "Legs Exercise 36",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247e"
+  },
+  "name": "Legs Exercise 37",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a247f"
+  },
+  "name": "Legs Exercise 38",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2480"
+  },
+  "name": "Legs Exercise 39",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2481"
+  },
+  "name": "Legs Exercise 40",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2482"
+  },
+  "name": "Legs Exercise 41",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2483"
+  },
+  "name": "Legs Exercise 42",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2484"
+  },
+  "name": "Legs Exercise 43",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2485"
+  },
+  "name": "Legs Exercise 44",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2486"
+  },
+  "name": "Legs Exercise 45",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2487"
+  },
+  "name": "Legs Exercise 46",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2488"
+  },
+  "name": "Legs Exercise 47",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2489"
+  },
+  "name": "Legs Exercise 48",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248a"
+  },
+  "name": "Legs Exercise 49",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248b"
+  },
+  "name": "Legs Exercise 50",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248c"
+  },
+  "name": "Legs Exercise 51",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248d"
+  },
+  "name": "Legs Exercise 52",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248e"
+  },
+  "name": "Legs Exercise 53",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a248f"
+  },
+  "name": "Legs Exercise 54",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2490"
+  },
+  "name": "Legs Exercise 55",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2491"
+  },
+  "name": "Legs Exercise 56",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2492"
+  },
+  "name": "Legs Exercise 57",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2493"
+  },
+  "name": "Legs Exercise 58",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2494"
+  },
+  "name": "Legs Exercise 59",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2495"
+  },
+  "name": "Legs Exercise 60",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2496"
+  },
+  "name": "Legs Exercise 61",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2497"
+  },
+  "name": "Legs Exercise 62",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2498"
+  },
+  "name": "Legs Exercise 63",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a2499"
+  },
+  "name": "Legs Exercise 64",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249a"
+  },
+  "name": "Legs Exercise 65",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249b"
+  },
+  "name": "Legs Exercise 66",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249c"
+  },
+  "name": "Legs Exercise 67",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249d"
+  },
+  "name": "Legs Exercise 68",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249e"
+  },
+  "name": "Legs Exercise 69",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a249f"
+  },
+  "name": "Legs Exercise 70",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a0"
+  },
+  "name": "Legs Exercise 71",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a1"
+  },
+  "name": "Legs Exercise 72",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a2"
+  },
+  "name": "Legs Exercise 73",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a3"
+  },
+  "name": "Legs Exercise 74",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a4"
+  },
+  "name": "Legs Exercise 75",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a5"
+  },
+  "name": "Legs Exercise 76",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a6"
+  },
+  "name": "Legs Exercise 77",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a7"
+  },
+  "name": "Legs Exercise 78",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a8"
+  },
+  "name": "Legs Exercise 79",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24a9"
+  },
+  "name": "Legs Exercise 80",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24aa"
+  },
+  "name": "Legs Exercise 81",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24ab"
+  },
+  "name": "Legs Exercise 82",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24ac"
+  },
+  "name": "Legs Exercise 83",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24ad"
+  },
+  "name": "Legs Exercise 84",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24ae"
+  },
+  "name": "Legs Exercise 85",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24af"
+  },
+  "name": "Legs Exercise 86",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b0"
+  },
+  "name": "Legs Exercise 87",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b1"
+  },
+  "name": "Legs Exercise 88",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b2"
+  },
+  "name": "Legs Exercise 89",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b3"
+  },
+  "name": "Legs Exercise 90",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b4"
+  },
+  "name": "Legs Exercise 91",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b5"
+  },
+  "name": "Legs Exercise 92",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b6"
+  },
+  "name": "Legs Exercise 93",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b7"
+  },
+  "name": "Legs Exercise 94",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b8"
+  },
+  "name": "Legs Exercise 95",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24b9"
+  },
+  "name": "Legs Exercise 96",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24ba"
+  },
+  "name": "Legs Exercise 97",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24bb"
+  },
+  "name": "Legs Exercise 98",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24bc"
+  },
+  "name": "Legs Exercise 99",
+  "type": "compound",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e77203ff5faf675a24bd"
+  },
+  "name": "Legs Exercise 100",
+  "type": "isolated",
+  "musclegroup": "Legs"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24be"
+  },
+  "name": "Chest Exercise 1",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24bf"
+  },
+  "name": "Chest Exercise 2",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c0"
+  },
+  "name": "Chest Exercise 3",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c1"
+  },
+  "name": "Chest Exercise 4",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c2"
+  },
+  "name": "Chest Exercise 5",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c3"
+  },
+  "name": "Chest Exercise 6",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c4"
+  },
+  "name": "Chest Exercise 7",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c5"
+  },
+  "name": "Chest Exercise 8",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c6"
+  },
+  "name": "Chest Exercise 9",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c7"
+  },
+  "name": "Chest Exercise 10",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c8"
+  },
+  "name": "Chest Exercise 11",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24c9"
+  },
+  "name": "Chest Exercise 12",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ca"
+  },
+  "name": "Chest Exercise 13",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24cb"
+  },
+  "name": "Chest Exercise 14",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24cc"
+  },
+  "name": "Chest Exercise 15",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24cd"
+  },
+  "name": "Chest Exercise 16",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ce"
+  },
+  "name": "Chest Exercise 17",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24cf"
+  },
+  "name": "Chest Exercise 18",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d0"
+  },
+  "name": "Chest Exercise 19",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d1"
+  },
+  "name": "Chest Exercise 20",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d2"
+  },
+  "name": "Chest Exercise 21",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d3"
+  },
+  "name": "Chest Exercise 22",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d4"
+  },
+  "name": "Chest Exercise 23",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d5"
+  },
+  "name": "Chest Exercise 24",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d6"
+  },
+  "name": "Chest Exercise 25",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d7"
+  },
+  "name": "Chest Exercise 26",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d8"
+  },
+  "name": "Chest Exercise 27",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24d9"
+  },
+  "name": "Chest Exercise 28",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24da"
+  },
+  "name": "Chest Exercise 29",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24db"
+  },
+  "name": "Chest Exercise 30",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24dc"
+  },
+  "name": "Chest Exercise 31",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24dd"
+  },
+  "name": "Chest Exercise 32",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24de"
+  },
+  "name": "Chest Exercise 33",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24df"
+  },
+  "name": "Chest Exercise 34",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e0"
+  },
+  "name": "Chest Exercise 35",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e1"
+  },
+  "name": "Chest Exercise 36",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e2"
+  },
+  "name": "Chest Exercise 37",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e3"
+  },
+  "name": "Chest Exercise 38",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e4"
+  },
+  "name": "Chest Exercise 39",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e5"
+  },
+  "name": "Chest Exercise 40",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e6"
+  },
+  "name": "Chest Exercise 41",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e7"
+  },
+  "name": "Chest Exercise 42",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e8"
+  },
+  "name": "Chest Exercise 43",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24e9"
+  },
+  "name": "Chest Exercise 44",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ea"
+  },
+  "name": "Chest Exercise 45",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24eb"
+  },
+  "name": "Chest Exercise 46",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ec"
+  },
+  "name": "Chest Exercise 47",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ed"
+  },
+  "name": "Chest Exercise 48",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ee"
+  },
+  "name": "Chest Exercise 49",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ef"
+  },
+  "name": "Chest Exercise 50",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f0"
+  },
+  "name": "Chest Exercise 51",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f1"
+  },
+  "name": "Chest Exercise 52",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f2"
+  },
+  "name": "Chest Exercise 53",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f3"
+  },
+  "name": "Chest Exercise 54",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f4"
+  },
+  "name": "Chest Exercise 55",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f5"
+  },
+  "name": "Chest Exercise 56",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f6"
+  },
+  "name": "Chest Exercise 57",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f7"
+  },
+  "name": "Chest Exercise 58",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f8"
+  },
+  "name": "Chest Exercise 59",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24f9"
+  },
+  "name": "Chest Exercise 60",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24fa"
+  },
+  "name": "Chest Exercise 61",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24fb"
+  },
+  "name": "Chest Exercise 62",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24fc"
+  },
+  "name": "Chest Exercise 63",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24fd"
+  },
+  "name": "Chest Exercise 64",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24fe"
+  },
+  "name": "Chest Exercise 65",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a24ff"
+  },
+  "name": "Chest Exercise 66",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2500"
+  },
+  "name": "Chest Exercise 67",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2501"
+  },
+  "name": "Chest Exercise 68",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2502"
+  },
+  "name": "Chest Exercise 69",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2503"
+  },
+  "name": "Chest Exercise 70",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2504"
+  },
+  "name": "Chest Exercise 71",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2505"
+  },
+  "name": "Chest Exercise 72",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2506"
+  },
+  "name": "Chest Exercise 73",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2507"
+  },
+  "name": "Chest Exercise 74",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2508"
+  },
+  "name": "Chest Exercise 75",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2509"
+  },
+  "name": "Chest Exercise 76",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250a"
+  },
+  "name": "Chest Exercise 77",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250b"
+  },
+  "name": "Chest Exercise 78",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250c"
+  },
+  "name": "Chest Exercise 79",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250d"
+  },
+  "name": "Chest Exercise 80",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250e"
+  },
+  "name": "Chest Exercise 81",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a250f"
+  },
+  "name": "Chest Exercise 82",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2510"
+  },
+  "name": "Chest Exercise 83",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2511"
+  },
+  "name": "Chest Exercise 84",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2512"
+  },
+  "name": "Chest Exercise 85",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2513"
+  },
+  "name": "Chest Exercise 86",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2514"
+  },
+  "name": "Chest Exercise 87",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2515"
+  },
+  "name": "Chest Exercise 88",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2516"
+  },
+  "name": "Chest Exercise 89",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2517"
+  },
+  "name": "Chest Exercise 90",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2518"
+  },
+  "name": "Chest Exercise 91",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2519"
+  },
+  "name": "Chest Exercise 92",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251a"
+  },
+  "name": "Chest Exercise 93",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251b"
+  },
+  "name": "Chest Exercise 94",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251c"
+  },
+  "name": "Chest Exercise 95",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251d"
+  },
+  "name": "Chest Exercise 96",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251e"
+  },
+  "name": "Chest Exercise 97",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a251f"
+  },
+  "name": "Chest Exercise 98",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2520"
+  },
+  "name": "Chest Exercise 99",
+  "type": "compound",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e7cc03ff5faf675a2521"
+  },
+  "name": "Chest Exercise 100",
+  "type": "isolated",
+  "musclegroup": "Chest"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2522"
+  },
+  "name": "Back Exercise 1",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2523"
+  },
+  "name": "Back Exercise 2",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2524"
+  },
+  "name": "Back Exercise 3",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2525"
+  },
+  "name": "Back Exercise 4",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2526"
+  },
+  "name": "Back Exercise 5",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2527"
+  },
+  "name": "Back Exercise 6",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2528"
+  },
+  "name": "Back Exercise 7",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2529"
+  },
+  "name": "Back Exercise 8",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252a"
+  },
+  "name": "Back Exercise 9",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252b"
+  },
+  "name": "Back Exercise 10",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252c"
+  },
+  "name": "Back Exercise 11",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252d"
+  },
+  "name": "Back Exercise 12",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252e"
+  },
+  "name": "Back Exercise 13",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a252f"
+  },
+  "name": "Back Exercise 14",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2530"
+  },
+  "name": "Back Exercise 15",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2531"
+  },
+  "name": "Back Exercise 16",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2532"
+  },
+  "name": "Back Exercise 17",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2533"
+  },
+  "name": "Back Exercise 18",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2534"
+  },
+  "name": "Back Exercise 19",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2535"
+  },
+  "name": "Back Exercise 20",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2536"
+  },
+  "name": "Back Exercise 21",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2537"
+  },
+  "name": "Back Exercise 22",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2538"
+  },
+  "name": "Back Exercise 23",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2539"
+  },
+  "name": "Back Exercise 24",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253a"
+  },
+  "name": "Back Exercise 25",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253b"
+  },
+  "name": "Back Exercise 26",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253c"
+  },
+  "name": "Back Exercise 27",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253d"
+  },
+  "name": "Back Exercise 28",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253e"
+  },
+  "name": "Back Exercise 29",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a253f"
+  },
+  "name": "Back Exercise 30",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2540"
+  },
+  "name": "Back Exercise 31",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2541"
+  },
+  "name": "Back Exercise 32",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2542"
+  },
+  "name": "Back Exercise 33",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2543"
+  },
+  "name": "Back Exercise 34",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2544"
+  },
+  "name": "Back Exercise 35",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2545"
+  },
+  "name": "Back Exercise 36",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2546"
+  },
+  "name": "Back Exercise 37",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2547"
+  },
+  "name": "Back Exercise 38",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2548"
+  },
+  "name": "Back Exercise 39",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2549"
+  },
+  "name": "Back Exercise 40",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254a"
+  },
+  "name": "Back Exercise 41",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254b"
+  },
+  "name": "Back Exercise 42",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254c"
+  },
+  "name": "Back Exercise 43",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254d"
+  },
+  "name": "Back Exercise 44",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254e"
+  },
+  "name": "Back Exercise 45",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a254f"
+  },
+  "name": "Back Exercise 46",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2550"
+  },
+  "name": "Back Exercise 47",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2551"
+  },
+  "name": "Back Exercise 48",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2552"
+  },
+  "name": "Back Exercise 49",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2553"
+  },
+  "name": "Back Exercise 50",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2554"
+  },
+  "name": "Back Exercise 51",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2555"
+  },
+  "name": "Back Exercise 52",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2556"
+  },
+  "name": "Back Exercise 53",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2557"
+  },
+  "name": "Back Exercise 54",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2558"
+  },
+  "name": "Back Exercise 55",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2559"
+  },
+  "name": "Back Exercise 56",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255a"
+  },
+  "name": "Back Exercise 57",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255b"
+  },
+  "name": "Back Exercise 58",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255c"
+  },
+  "name": "Back Exercise 59",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255d"
+  },
+  "name": "Back Exercise 60",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255e"
+  },
+  "name": "Back Exercise 61",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a255f"
+  },
+  "name": "Back Exercise 62",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2560"
+  },
+  "name": "Back Exercise 63",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2561"
+  },
+  "name": "Back Exercise 64",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2562"
+  },
+  "name": "Back Exercise 65",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2563"
+  },
+  "name": "Back Exercise 66",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2564"
+  },
+  "name": "Back Exercise 67",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2565"
+  },
+  "name": "Back Exercise 68",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2566"
+  },
+  "name": "Back Exercise 69",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2567"
+  },
+  "name": "Back Exercise 70",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2568"
+  },
+  "name": "Back Exercise 71",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2569"
+  },
+  "name": "Back Exercise 72",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256a"
+  },
+  "name": "Back Exercise 73",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256b"
+  },
+  "name": "Back Exercise 74",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256c"
+  },
+  "name": "Back Exercise 75",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256d"
+  },
+  "name": "Back Exercise 76",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256e"
+  },
+  "name": "Back Exercise 77",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a256f"
+  },
+  "name": "Back Exercise 78",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2570"
+  },
+  "name": "Back Exercise 79",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2571"
+  },
+  "name": "Back Exercise 80",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2572"
+  },
+  "name": "Back Exercise 81",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2573"
+  },
+  "name": "Back Exercise 82",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2574"
+  },
+  "name": "Back Exercise 83",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2575"
+  },
+  "name": "Back Exercise 84",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2576"
+  },
+  "name": "Back Exercise 85",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2577"
+  },
+  "name": "Back Exercise 86",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2578"
+  },
+  "name": "Back Exercise 87",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2579"
+  },
+  "name": "Back Exercise 88",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257a"
+  },
+  "name": "Back Exercise 89",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257b"
+  },
+  "name": "Back Exercise 90",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257c"
+  },
+  "name": "Back Exercise 91",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257d"
+  },
+  "name": "Back Exercise 92",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257e"
+  },
+  "name": "Back Exercise 93",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a257f"
+  },
+  "name": "Back Exercise 94",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2580"
+  },
+  "name": "Back Exercise 95",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2581"
+  },
+  "name": "Back Exercise 96",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2582"
+  },
+  "name": "Back Exercise 97",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2583"
+  },
+  "name": "Back Exercise 98",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2584"
+  },
+  "name": "Back Exercise 99",
+  "type": "compound",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e86903ff5faf675a2585"
+  },
+  "name": "Back Exercise 100",
+  "type": "isolated",
+  "musclegroup": "Back"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2586"
+  },
+  "name": "Shoulders Exercise 1",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2587"
+  },
+  "name": "Shoulders Exercise 2",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2588"
+  },
+  "name": "Shoulders Exercise 3",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2589"
+  },
+  "name": "Shoulders Exercise 4",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258a"
+  },
+  "name": "Shoulders Exercise 5",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258b"
+  },
+  "name": "Shoulders Exercise 6",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258c"
+  },
+  "name": "Shoulders Exercise 7",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258d"
+  },
+  "name": "Shoulders Exercise 8",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258e"
+  },
+  "name": "Shoulders Exercise 9",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a258f"
+  },
+  "name": "Shoulders Exercise 10",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2590"
+  },
+  "name": "Shoulders Exercise 11",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2591"
+  },
+  "name": "Shoulders Exercise 12",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2592"
+  },
+  "name": "Shoulders Exercise 13",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2593"
+  },
+  "name": "Shoulders Exercise 14",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2594"
+  },
+  "name": "Shoulders Exercise 15",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2595"
+  },
+  "name": "Shoulders Exercise 16",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2596"
+  },
+  "name": "Shoulders Exercise 17",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2597"
+  },
+  "name": "Shoulders Exercise 18",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2598"
+  },
+  "name": "Shoulders Exercise 19",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a2599"
+  },
+  "name": "Shoulders Exercise 20",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259a"
+  },
+  "name": "Shoulders Exercise 21",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259b"
+  },
+  "name": "Shoulders Exercise 22",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259c"
+  },
+  "name": "Shoulders Exercise 23",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259d"
+  },
+  "name": "Shoulders Exercise 24",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259e"
+  },
+  "name": "Shoulders Exercise 25",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a259f"
+  },
+  "name": "Shoulders Exercise 26",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a0"
+  },
+  "name": "Shoulders Exercise 27",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a1"
+  },
+  "name": "Shoulders Exercise 28",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a2"
+  },
+  "name": "Shoulders Exercise 29",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a3"
+  },
+  "name": "Shoulders Exercise 30",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a4"
+  },
+  "name": "Shoulders Exercise 31",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a5"
+  },
+  "name": "Shoulders Exercise 32",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a6"
+  },
+  "name": "Shoulders Exercise 33",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a7"
+  },
+  "name": "Shoulders Exercise 34",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a8"
+  },
+  "name": "Shoulders Exercise 35",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25a9"
+  },
+  "name": "Shoulders Exercise 36",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25aa"
+  },
+  "name": "Shoulders Exercise 37",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ab"
+  },
+  "name": "Shoulders Exercise 38",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ac"
+  },
+  "name": "Shoulders Exercise 39",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ad"
+  },
+  "name": "Shoulders Exercise 40",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ae"
+  },
+  "name": "Shoulders Exercise 41",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25af"
+  },
+  "name": "Shoulders Exercise 42",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b0"
+  },
+  "name": "Shoulders Exercise 43",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b1"
+  },
+  "name": "Shoulders Exercise 44",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b2"
+  },
+  "name": "Shoulders Exercise 45",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b3"
+  },
+  "name": "Shoulders Exercise 46",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b4"
+  },
+  "name": "Shoulders Exercise 47",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b5"
+  },
+  "name": "Shoulders Exercise 48",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b6"
+  },
+  "name": "Shoulders Exercise 49",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b7"
+  },
+  "name": "Shoulders Exercise 50",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b8"
+  },
+  "name": "Shoulders Exercise 51",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25b9"
+  },
+  "name": "Shoulders Exercise 52",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ba"
+  },
+  "name": "Shoulders Exercise 53",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25bb"
+  },
+  "name": "Shoulders Exercise 54",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25bc"
+  },
+  "name": "Shoulders Exercise 55",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25bd"
+  },
+  "name": "Shoulders Exercise 56",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25be"
+  },
+  "name": "Shoulders Exercise 57",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25bf"
+  },
+  "name": "Shoulders Exercise 58",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c0"
+  },
+  "name": "Shoulders Exercise 59",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c1"
+  },
+  "name": "Shoulders Exercise 60",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c2"
+  },
+  "name": "Shoulders Exercise 61",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c3"
+  },
+  "name": "Shoulders Exercise 62",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c4"
+  },
+  "name": "Shoulders Exercise 63",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c5"
+  },
+  "name": "Shoulders Exercise 64",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c6"
+  },
+  "name": "Shoulders Exercise 65",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c7"
+  },
+  "name": "Shoulders Exercise 66",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c8"
+  },
+  "name": "Shoulders Exercise 67",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25c9"
+  },
+  "name": "Shoulders Exercise 68",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ca"
+  },
+  "name": "Shoulders Exercise 69",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25cb"
+  },
+  "name": "Shoulders Exercise 70",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25cc"
+  },
+  "name": "Shoulders Exercise 71",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25cd"
+  },
+  "name": "Shoulders Exercise 72",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25ce"
+  },
+  "name": "Shoulders Exercise 73",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25cf"
+  },
+  "name": "Shoulders Exercise 74",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d0"
+  },
+  "name": "Shoulders Exercise 75",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d1"
+  },
+  "name": "Shoulders Exercise 76",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d2"
+  },
+  "name": "Shoulders Exercise 77",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d3"
+  },
+  "name": "Shoulders Exercise 78",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d4"
+  },
+  "name": "Shoulders Exercise 79",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d5"
+  },
+  "name": "Shoulders Exercise 80",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d6"
+  },
+  "name": "Shoulders Exercise 81",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d7"
+  },
+  "name": "Shoulders Exercise 82",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d8"
+  },
+  "name": "Shoulders Exercise 83",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25d9"
+  },
+  "name": "Shoulders Exercise 84",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25da"
+  },
+  "name": "Shoulders Exercise 85",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25db"
+  },
+  "name": "Shoulders Exercise 86",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25dc"
+  },
+  "name": "Shoulders Exercise 87",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25dd"
+  },
+  "name": "Shoulders Exercise 88",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25de"
+  },
+  "name": "Shoulders Exercise 89",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25df"
+  },
+  "name": "Shoulders Exercise 90",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e0"
+  },
+  "name": "Shoulders Exercise 91",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e1"
+  },
+  "name": "Shoulders Exercise 92",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e2"
+  },
+  "name": "Shoulders Exercise 93",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e3"
+  },
+  "name": "Shoulders Exercise 94",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e4"
+  },
+  "name": "Shoulders Exercise 95",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e5"
+  },
+  "name": "Shoulders Exercise 96",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e6"
+  },
+  "name": "Shoulders Exercise 97",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e7"
+  },
+  "name": "Shoulders Exercise 98",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e8"
+  },
+  "name": "Shoulders Exercise 99",
+  "type": "compound",
+  "musclegroup": "Shoulders"
+},
+{
+  "_id": {
+    "$oid": "6650e8df03ff5faf675a25e9"
+  },
+  "name": "Shoulders Exercise 100",
+  "type": "isolated",
+  "musclegroup": "Shoulders"
 }]
